@@ -20,3 +20,7 @@ This repository contains code and analysis for a project focused on understandin
 
 4. **Contribute:** If you'd like to contribute to the project, feel free to open issues or provide feedback.
 
+## Acknowledgments
+We'd like to express our gratitude to AlmaBetter for their guidance and support throughout this project.
+
+
