@@ -1,2 +1,2 @@
 # Telecom Customer Churn
-![https://emyrael.github.io/assets/img/churn.png]
+![AlmaBetter Project](https://emyrael.github.io/assets/img/churn.png)
